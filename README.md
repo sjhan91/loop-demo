@@ -14,7 +14,7 @@ This repository is the implementation of "The Interface of Symbolic Music Loop G
 * Read [requirements.txt](/requirements.txt) for other Python libraries
 
 
-## Demo Inference
+## Demo Interface
 http://52.78.242.81:7002/
 ![demo_sjhan](./images/demo_sjhan.PNG)
 
